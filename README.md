@@ -13,7 +13,8 @@
 ## 🔨 What I'm Currently Working On
 
 - ✅ CS50’s Introduction to Programming with Python  
-- ✅ Meta Front-End Developer Course  
+- ✅ Meta Front-End Developer Course
+- ✅ Full Stack Developer Course 
 - 🗃️ Personal mini-projects in Python and HTML
 
 ---
