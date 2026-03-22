@@ -2,8 +2,6 @@
 
 🎓 Computer Science student @ University of the People  
 🐍 Currently learning Python & Web Development (Meta Front-End Path)  
-📱 Building skills from my phone while saving up for a laptop  
-💡 Passionate about freelancing, tech, and future relocation to Germany 🇩🇪  
 💻 This GitHub will document my full journey — from zero to career pro  
 📚 Favorite Tools: freeCodeCamp, CS50, Coursera, GitHub  
 📬 Reach me: nnamdistanleynnanna@gmail.com
