@@ -1,40 +1,15 @@
-# 👋 Hi, I'm NnamdiDev
+# Hi, I'm Nnamdi Nnanna 👋
 
-🎓 Computer Science student @ University of the People  
-🐍 Currently learning Python & Web Development (Meta Front-End Path)  
-💻 This GitHub will document my full journey — from zero to career pro  
-📚 Favorite Tools: freeCodeCamp, CS50, Coursera, GitHub  
-📬 Reach me: nnamdistanleynnanna@gmail.com
+I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, Cloud Computing, and Full-stack Software Engineering. I enjoy building practical solutions to real-world problems while continuously learning and improving my technical skills.
 
----
+## 🎯 Current Goals
 
-## 🔨 What I'm Currently Working On
+- Build impactful AI/ML projects
+- Contribute to open-source projects
+- Strengthen my cloud engineering skills
+- Secure an AI/ML Engineering role
 
-- ✅ CS50’s Introduction to Programming with Python  
-- ✅ Meta Front-End Developer Course
-- ✅ Full Stack Developer Course 
-- 🗃️ Personal mini-projects in Python and HTML
+## 📫 Connect With Me
 
----
-
-## 🌱 My Goals for 2025
-
-- Master Python & front-end development  
-- Build 4+ projects and upload here  
-- Start freelancing & earn my first tech income  
-- Land admission for a Master’s in Germany
-
----
-
-## 📂 Projects Coming Soon
-
-- Age calculator (Python)  
-- My personal portfolio site  
-- Responsive blog UI  
-- Mini data dashboard (SQL)
-
----
-
-## 🤝 Let’s Connect
-
-If you're a dev, mentor, or recruiter, feel free to reach out!
+- LinkedIn: https://www.linkedin.com/in/nnamdi-nnanna 
+- Email: officialnnamdinnanna@gmail.com 
